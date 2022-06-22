@@ -1,0 +1,49 @@
+name: portfolio1
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.17.1 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  auto_size_text: 3.0.0
+  flutter_svg: ^1.0.3
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/portfolio1/assets/images/bg.png
+    - packages/portfolio1/assets/images/pic.png
+    - packages/portfolio1/assets/images/ellipse3.png
+    - packages/portfolio1/assets/images/ellipse4.png
+    - packages/portfolio1/assets/images/image7.png
+    - packages/portfolio1/assets/images/image5.png
+    - packages/portfolio1/assets/images/image6.png
+    - packages/portfolio1/assets/images/image11.png
+    - packages/portfolio1/assets/images/image8.png
+    - packages/portfolio1/assets/images/image9.png
+    - packages/portfolio1/assets/images/image10.png
+    - packages/portfolio1/assets/images/image13.png
+    - packages/portfolio1/assets/images/image17.png
+    - packages/portfolio1/assets/images/line1.svg
+    - packages/portfolio1/assets/images/line6.svg
+    - packages/portfolio1/assets/images/line7.svg
+    - packages/portfolio1/assets/images/line8.svg
+    - packages/portfolio1/assets/images/background.png
+    - packages/portfolio1/assets/images/smssss1.png
+    - packages/portfolio1/assets/images/dccc1.png
+    - packages/portfolio1/assets/images/igg1.png
+    - packages/portfolio1/assets/images/fb1.png
+    - packages/portfolio1/assets/images/image16.png
+    - packages/portfolio1/assets/images/polygon1.svg
+    - packages/portfolio1/assets/images/ellipse1.png
+    - packages/portfolio1/assets/images/pp1.png
+    - packages/portfolio1/assets/images/by1.png
+    - packages/portfolio1/assets/images/ellipse2.png
+    - packages/portfolio1/assets/images/polygon2.svg
+    - packages/portfolio1/assets/images/name.png
